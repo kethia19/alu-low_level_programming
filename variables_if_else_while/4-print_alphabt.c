@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Betty sucks
+ * main - Entry point
  *
- *
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
 {

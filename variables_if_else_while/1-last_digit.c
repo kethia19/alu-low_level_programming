@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Have to do this for betty stuff
+ * main - Entry point
  *
- *
+ * Return: Always 0 (success/correct)
  */
 int main(void)
 {

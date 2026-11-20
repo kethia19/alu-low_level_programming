@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Printing numbers from 10
+ * main - Entry point
  *
- *
+ * Return: Always 0 (Success/Correct)
  */
 int main(void)
 {

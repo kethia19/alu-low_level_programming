@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * May Betty be pleased with this
+ * main - Entry point
  *
- *
+ * Return: Always 0 (success/correct)
  */
+
 int main(void)
 {
 	char lowerCase;
